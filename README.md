@@ -6,4 +6,8 @@ Practice ( Python, JAVA, C, R )
 ### Python
 01. 2021 - 05 - 28 (1): indexing, slicing, formatting
 02. 2021 - 05 - 28 (2): Repetitive Statement
-02. 2021 - 05 - 29 (3): 조건부 표현식 초안
+03. 2021 - 05 - 29 (1): Conditional Expressions
+04. 2021 - 05 - 29 (1): Repetitive Statement(2)
+05. 2021 - 05 - 29 (2): Repetitive Statement(3)
+
+
