@@ -38,15 +38,14 @@ filename_No        = 215179                                     # Initial value 
 filename_sum       = 0                                          # The sum of each digit of the filename_No
 
 for filename_tmp in str ( filename_No ) :                       # Convert numbers to string and put one digit at a time.('2','1','5','1','7','9')
-    filename_tmp = int  ( filename_tmp )                         # Convert string to number ('2' > 2, '1' > 1, '5' > 5, '1' > 1, '7' > 7, '9' > 9)
+    filename_tmp = int  ( filename_tmp )                        # Convert string to number ('2' > 2, '1' > 1, '5' > 5, '1' > 1, '7' > 7, '9' > 9)
     filename_sum = filename_sum + filename_tmp                  
-                                                                ''' 1st round ( 0 + 2 )  = 2
-                                                                    2nd round ( 2 + 1 )  = 3
-                                                                    3rd round ( 3 + 5 )  = 8
-                                                                    4th round ( 8 + 1 )  = 9
-                                                                    5th round ( 9 + 7 )  = 16
-                                                                    6th round ( 16 + 9 ) = 25 
-                                                                    '''
+                                                                # 1st round ( 0 + 2 )  = 2
+                                                                # 2nd round ( 2 + 1 )  = 3
+                                                                # 3rd round ( 3 + 5 )  = 8
+                                                                # 4th round ( 8 + 1 )  = 9
+                                                                # 5th round ( 9 + 7 )  = 16
+                                                                # 6th round ( 16 + 9 ) = 25
 
 print ( filename_sum )                                          # 25
 
