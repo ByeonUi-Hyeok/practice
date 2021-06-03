@@ -11,4 +11,11 @@ Practice ( Python, JAVA, C, R )
 05. 2021 - 05 - 31 (2): Repetitive Statement(3)
 06. 2021 - 05 - 31 (3): Nested List
 07. 2021 - 05 - 31 (4): Dictionary
+08. 2021 - 05 - 31 (5): Set
+09. 2021 - 05 - 31 (6): Contral Statement
+10. 2021 - 06 - 01 (1): if(1)
+11. 2021 - 06 - 01 (2): if(2)
+12. 2021 - 06 - 03 (1): for
+ 
+
 
