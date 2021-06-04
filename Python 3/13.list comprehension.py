@@ -12,6 +12,19 @@ for i in range ( filename_inputa, filename_inputb + 1 ) :
     filename_result.append( 2**i )
 filename_result.pop( 1 )
 filename_result.pop( -2 )
-print(filename_result)
+print( filename_result )
 
-#2. 리스트 내포
+#2. 리스트 내포 (1)
+
+filename_inputa, filename_inputb = map( int, input().split(' ') )
+filename_result = [ 2 ** i for i in range ( filename_inputa, filename_inputb + 1) ]
+filename_result.pop( 1 )
+filename_result.pop( -2 )
+print( filename_result )
+
+#3. 리스트 내포 (2)
+
+filename_inputa, filename_inputb = map(int, input().split(' '))
+filename_result = [ 2 ** i for i in range( filename_inputa, filename_inputb + 1 ) if 2 ** i != 2 ** (filename_inputa+1) \
+                                                                                     and 2 ** i != 2 ** ( filename_inputb - 1 ) ]
+print( filename_result )
