@@ -16,6 +16,7 @@ Practice ( Python, JAVA, C, R )
 10. 2021 - 06 - 01 (1): if(1)
 11. 2021 - 06 - 01 (2): if(2)
 12. 2021 - 06 - 03 (1): for
+13. 2021 - 06 - 04 (1): list comprehension
  
 
 
