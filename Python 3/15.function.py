@@ -1,6 +1,9 @@
 # 21.06.07
 # 배열 array의 i부터 j까지 k번째 있는 수 구하기
 
+from _typeshed import SupportsLessThan
+
+
 def funcname_solution(filename_array, filename_commands):
     filename_answer =[]
     for b in filename_commands:
