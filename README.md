@@ -17,8 +17,10 @@ Practice ( Python, JAVA, C, R )
 11. 2021 - 06 - 01 (2): if(2)
 12. 2021 - 06 - 03 (1): for
 13. 2021 - 06 - 04 (1): list comprehension
-14. 2021 - 06 - 07 (1): String Processing
+14. 2021 - 06 - 07 (1): Charactor(String Processing)
 15. 2021 - 06 - 07 (2): function
+16. 2021 - 06 - 08 (1): String Processing
+
 
 
 
