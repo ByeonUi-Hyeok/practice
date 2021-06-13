@@ -15,3 +15,7 @@ regex = '[1]{1}\d{2}-[1]{1}\d{1}-\d{6}'
 pattern = re.compile(regex)
 res = pattern.match(text)
 print(res)
+
+text1 = '변의혁'
+
+print(f'안녕하세요 {text1}입니다.' )
