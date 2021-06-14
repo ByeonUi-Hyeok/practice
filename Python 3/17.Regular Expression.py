@@ -17,5 +17,6 @@ res = pattern.match(text)
 print(res)
 
 text1 = '변의혁'
+text2 = 'Byeon Ui-Hyeok'
 
-print(f'안녕하세요 {text1}입니다.' )
+print(f'안녕하세요 {text1}, 영문이름은 {text2}입니다.' )
