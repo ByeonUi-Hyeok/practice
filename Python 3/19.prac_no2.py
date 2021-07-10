@@ -10,3 +10,6 @@ print(vote.countvotes(result))
 result = vote.countvotes(result)
 
 vote.printvote(result)
+
+
+# 투표 초안
