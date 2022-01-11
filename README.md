@@ -22,5 +22,54 @@ Practice ( Python, JAVA, C, R )
 16. 2021 - 06 - 08 (1): String Processing
 
 
+18.Regular Expression.py
+21.06.14 수정
+7 months ago
+18.prac_no1.py
+21.07.07 다른환경 테스트용 업데이트
+6 months ago
+19.prac_no2.py
+21.07.10 투표 초안 테스트
+6 months ago
+20.prac_no3.py
+Merge branch 'main' of https://github.com/ByeonUi-Hyeok/practice
+6 months ago
+21.prac_no4.py
+21.07.11 타자 게임 제작
+6 months ago
+22.pandas_01.py
+21.07.12 판다스 초안 작성
+6 months ago
+23.pandas_basic_01.ipynb
+21.07.13 파이썬 판다스 모듈 사용 연습
+6 months ago
+24.pandas_basic_02.ipynb
+21.07.14 판다스 공부
+6 months ago
+25.pandas_basic_03.ipynb
+21.07.15 판다스 기초 연습3
+6 months ago
+26.pandas_basic_04.ipynb
+21.07.20 파이썬 데이터분석 판다스 이용
+6 months ago
+27.python_basic.ipynb
+21.07.20 파이썬 데이터분석 판다스 이용
+6 months ago
+28.extra_python_basic.ipynb
+21.07.25 개인적인 파이썬 작동연습
+6 months ago
+29.python_restart.ipynb
+21.09,05 파이썬 추가기능 제작
+4 months ago
+30.lic_bigdata_prac(1).ipynb
+21.12.01 update
+last month
+31.data_anal(1).ipynb
+21.12.01 update
+last month
+32.coding_test.ipynb
+
+
+
 
 
