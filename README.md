@@ -66,10 +66,5 @@ Merge branch 'main' of https://github.com/ByeonUi-Hyeok/practice
 last month
 31.data_anal(1).ipynb
 21.12.01 update
-last month
-32.coding_test.ipynb
-
-
-
 
 
