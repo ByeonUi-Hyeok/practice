@@ -20,14 +20,12 @@ Practice ( Python, JAVA, C, R )
 14. 2021 - 06 - 07 (1): Charactor(String Processing)
 15. 2021 - 06 - 07 (2): function
 16. 2021 - 06 - 08 (1): String Processing
-17. 2021 - 06 - 14 (1):Regular Expression
-18. 2021 - 06 - 14 (2):Regular Expression
-19. 2021 - 07 - 07 (1):prac_no1
+17. 2021 - 06 - 14 (1): Regular Expression
+18. 2021 - 06 - 14 (2): Regular Expression
+19. 2021 - 07 - 07 (1): prac_no1
+20. 2021 - 07 - 10 (1): prac_no2
 
 
-19.prac_no2.py
-21.07.10 투표 초안 테스트
-6 months ago
 20.prac_no3.py
 Merge branch 'main' of https://github.com/ByeonUi-Hyeok/practice
 6 months ago
