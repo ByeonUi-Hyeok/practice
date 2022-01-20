@@ -25,13 +25,8 @@ Practice ( Python, JAVA, C, R )
 19. 2021 - 07 - 07 (1): prac_no1
 20. 2021 - 07 - 10 (1): prac_no2
 21. 2021 - 07 - 11 (1): prac_no3
+22. 2021 - 07 - 11 (2): prac_no4
 
-20.prac_no3.py
-Merge branch 'main' of https://github.com/ByeonUi-Hyeok/practice
-6 months ago
-21.prac_no4.py
-21.07.11 타자 게임 제작
-6 months ago
 22.pandas_01.py
 21.07.12 판다스 초안 작성
 6 months ago
