@@ -26,10 +26,9 @@ Practice ( Python, JAVA, C, R )
 20. 2021 - 07 - 10 (1): prac_no2
 21. 2021 - 07 - 11 (1): prac_no3
 22. 2021 - 07 - 11 (2): prac_no4
+23. 2021 - 07 - 12 (1): pandas_01
 
-22.pandas_01.py
-21.07.12 판다스 초안 작성
-6 months ago
+
 23.pandas_basic_01.ipynb
 21.07.13 파이썬 판다스 모듈 사용 연습
 6 months ago
