@@ -30,11 +30,8 @@ Practice ( Python, JAVA, C, R )
 24. 2021 - 07 - 13 (1): pandas_basic_01
 25. 2021 - 07 - 14 (1): pandas_basic_02
 26. 2021 - 07 - 15 (1): pandas_basic_03
+27. 2021 - 07 - 20 (1): pandas_basic_04
 
-
-26.pandas_basic_04.ipynb
-21.07.20 파이썬 데이터분석 판다스 이용
-6 months ago
 27.python_basic.ipynb
 21.07.20 파이썬 데이터분석 판다스 이용
 6 months ago
