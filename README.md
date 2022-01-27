@@ -31,15 +31,11 @@ Practice ( Python, JAVA, C, R )
 25. 2021 - 07 - 14 (1): pandas_basic_02
 26. 2021 - 07 - 15 (1): pandas_basic_03
 27. 2021 - 07 - 20 (1): pandas_basic_04
-27. 2021 - 07 - 20 (1): pandas_basic
+28. 2021 - 07 - 25 (1): pandas_basic
+29. 2021 - 09 - 05 (1): python_restart
 
 
-28.extra_python_basic.ipynb
-21.07.25 개인적인 파이썬 작동연습
-6 months ago
-29.python_restart.ipynb
-21.09,05 파이썬 추가기능 제작
-4 months ago
+
 30.lic_bigdata_prac(1).ipynb
 21.12.01 update
 last month
