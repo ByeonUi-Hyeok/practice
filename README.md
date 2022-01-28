@@ -33,12 +33,10 @@ Practice ( Python, JAVA, C, R )
 27. 2021 - 07 - 20 (1): pandas_basic_04
 28. 2021 - 07 - 25 (1): pandas_basic
 29. 2021 - 09 - 05 (1): python_restart
+30. 2021 - 12 - 01 (1): lic_bigdata_prac(1)
 
 
 
-30.lic_bigdata_prac(1).ipynb
-21.12.01 update
-last month
 31.data_anal(1).ipynb
 21.12.01 update
 
